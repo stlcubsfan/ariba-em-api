@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stlcubsfan/ariba-em-api/issues"
   },
-  "homepage": "https://github.com/stlcubsfan/ariba-em-api#readme"
+  "homepage": "https://github.com/stlcubsfan/ariba-em-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"  
+  }
 }
