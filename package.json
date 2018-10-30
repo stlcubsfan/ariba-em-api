@@ -1,0 +1,19 @@
+{
+  "name": "ariba-em-api",
+  "version": "1.0.0",
+  "description": "API for Ariba entity management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stlcubsfan/ariba-em-api.git"
+  },
+  "author": "Brian Coles <@stlcubsfan>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stlcubsfan/ariba-em-api/issues"
+  },
+  "homepage": "https://github.com/stlcubsfan/ariba-em-api#readme"
+}
